@@ -63,7 +63,7 @@ function Login() {
                   <span className="text-gray-600">
                     New to Netflix?
                   </span>
-                  <Link to="/signup"> Sign Up</Link>
+                  <Link to="/signup"> Sign In</Link>
                 </p>
               </form>
             </div>
